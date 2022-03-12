@@ -1,0 +1,11 @@
+{
+  "extends": [
+    ":dependencyDashboard",
+    ":pinVersions",
+    ":disableRateLimiting",
+    "workarounds:all",
+    ":label(renovate)",
+    ":enableVulnerabilityAlerts",
+    ":rebaseStalePrs"
+  ]
+}
