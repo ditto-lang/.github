@@ -7,5 +7,6 @@
     ":label(renovate)",
     ":enableVulnerabilityAlerts",
     ":rebaseStalePrs"
-  ]
+  ],
+  "stabilityDays": 3
 }
