@@ -8,5 +8,8 @@
     ":enableVulnerabilityAlerts",
     ":rebaseStalePrs"
   ],
-  "stabilityDays": 3
+  "stabilityDays": 3,
+  "patch": {
+    "enabled": false
+  }
 }
