@@ -5,8 +5,7 @@
     ":disableRateLimiting",
     "workarounds:all",
     ":label(renovate)",
-    ":enableVulnerabilityAlerts",
-    ":rebaseStalePrs"
+    ":enableVulnerabilityAlerts"
   ],
   "stabilityDays": 3,
   "patch": {
