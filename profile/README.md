@@ -1,3 +1,13 @@
+<p align="center"><strong>This was my little deep dive into writing a language.</strong><strong></p>
+
+<p align="center"><strong>There's some good stuff here, but also some not soo good stuff.</p><strong></p>
+
+<p align="center"><strong>Enjoy.</p><strong></p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b41f53dc-a48c-475a-84c1-19ca7b83e3ce">
+</p>
+
 <h1 align="center">ditto</h1>
 
 <p align="center">A small, pure functional language that targets other languages.</p>
